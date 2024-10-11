@@ -1,6 +1,8 @@
 # homeserver-homepage
 This is a simple homepage for services hosted on your home server. It displays a list of services in a grid layout, with each service represented by a clickable button simple Single HTML file no external dependencies.
 
+![homepage](https://github.com/user-attachments/assets/fabb7962-1192-4dc8-ba30-e780c581e978)
+
 ## Features
 
 - **Dark Mode**: The page has a dark theme with light-colored text for better contrast.
